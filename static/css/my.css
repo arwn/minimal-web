@@ -1,0 +1,15 @@
+h2 {
+    font-size: 1.2em;
+}
+
+table {
+    font-size: 1em !important;
+    border-top: 2px dotted #ddd;
+    border-left: 4px solid #777;
+    background: #fff;
+    box-shadow: 2px 2px #ddd;
+}
+
+td {
+    border: .08333rem solid #bfbfbf;
+}
